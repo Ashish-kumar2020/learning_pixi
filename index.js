@@ -10,7 +10,7 @@ document.body.appendChild(app.view);
 
 // Create a red square
 const square = new PIXI.Graphics();
-square.beginFill(0xff0000);
+square.beginFill("#0000FF");
 square.drawRect(0, 0, 100, 100);
 square.endFill();
 

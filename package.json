@@ -4,6 +4,7 @@
   "description": "Diving Deep into Slot Game Development Using Pixijs",
   "main": "index.js",
   "scripts": {
+    "start": "webpack serve --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -16,5 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "pixi.js": "^7.3.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "learning_pixi",
+  "version": "1.0.0",
+  "description": "Diving Deep into Slot Game Development Using Pixijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixi",
+    "learningpixi",
+    "pixisetup",
+    "slotgame"
+  ],
+  "author": "Ashish Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^7.3.2"
+  }
+}

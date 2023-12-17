@@ -1,5 +1,6 @@
 ## Container
 
+    Note: app.stage is the main container where all the sprites,graphics etc
     create a container using
     const container = new PIXI.Container();
     to add color to container we use graphic

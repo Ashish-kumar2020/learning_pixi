@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  entry: "./Basic/Tinting.js",
+  entry: "./Basic/CacheAsBitmap.js",
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname, "dist"),
